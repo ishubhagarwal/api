@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Resources\Review;
+
 use App\Model\Product;
 use Illuminate\Http\Resources\Json\Resource;
 
